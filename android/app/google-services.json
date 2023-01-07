@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764514806440",
+    "project_id": "tets-a4cf0",
+    "storage_bucket": "tets-a4cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764514806440:android:b466d7fb383f95c271709d",
+        "android_client_info": {
+          "package_name": "com.example.check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764514806440-ksn6jl0ovt9s6r0j09u5o94uealv5kmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxotSxeOPxvkl26s8IZ0F_YNC9Bwx_7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764514806440-ksn6jl0ovt9s6r0j09u5o94uealv5kmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
